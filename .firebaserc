@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "search-vehicles-app",
+    "prod": "search-vehicles-app",
+    "test": "search-vehicles-app"
+  }
+}
